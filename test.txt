@@ -1,1 +1,2 @@
 this is my frist text file
+Now i know little bit what is git
